@@ -32,4 +32,15 @@ Was bored so i made this, its basicly a 3D shape object viewer that has  muliple
 There are some other buttons like a shape spawner and light manipulator
 
  
+
+
+## 3. Discord File uploader, using webhook
+
+I was thinking of a discord file uploader i saw awhile ago and decided to make my own
+So what you do input your webhook in the custom field and select the file and upload it
+it should upload if done right
+
+
+
+
 ```
