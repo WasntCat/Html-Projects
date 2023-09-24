@@ -1,7 +1,10 @@
 # Html-Projects
 
 
-I'll update with just diffrent ready to load sites
+I'll update with just diffrent ready to load sites, Keep in note each HTML File is Obfuscated because i was bored and
+
+also because i wanted to test to see if what i was doing would work, if you want the Code just debug while in your IDE ( VsCode Ect... )
+
 
 
 ```js
